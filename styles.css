@@ -1,0 +1,617 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Header styles */
+.dark-header {
+    background-color: #121212; /* Dark header background color */
+    padding: 20px 0;
+}
+
+.dark-header .logo img {
+    height: 50px; /* Adjust the height of the logo */
+}
+
+.dark-header nav ul {
+    list-style: none;
+}
+
+.dark-header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.dark-header nav ul li a {
+    text-decoration: none;
+    color: #fff; /* Link color */
+}
+
+.dark-header nav ul li a:hover {
+    color: #ffd700; /* Link color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+/* Header styles */
+/* (Header styles as mentioned in the previous example) */
+
+/* Hero section styles */
+.hero-section {
+    background-image: url('hero-background.jpg'); /* Background image */
+    background-size: cover;
+    background-position: center;
+    height: 500px; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hero-content {
+    text-align: center;
+}
+
+.hero-content h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #ffd700; /* Button background color */
+    color: #1f1f1f; /* Button text color */
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #e0ad00; /* Button background color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Header styles */
+/* (Header styles as mentioned in the previous example) */
+
+/* Product categories section styles */
+.product-categories {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.product-categories h2 {
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.category-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.category-item {
+    flex: 1 1 300px;
+    background-color: #333; /* Category item background color */
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.category-item img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.category-item h3 {
+    margin-top: 10px;
+    font-size: 1.5em;
+}
+
+.category-item p {
+    font-size: 1.1em;
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Header styles */
+/* (Header styles as mentioned in the previous example) */
+
+/* Special offers section styles */
+.special-offers {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.special-offers h2 {
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.offer-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.offer-card {
+    flex: 1 1 300px;
+    background-color: #333; /* Offer card background color */
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.offer-card img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.offer-card h3 {
+    margin-top: 10px;
+    font-size: 1.5em;
+}
+
+.offer-card p {
+    font-size: 1.1em;
+}
+
+.offer-button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #ffd700; /* Button background color */
+    color: #1f1f1f; /* Button text color */
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    margin-top: 15px;
+}
+
+.offer-button:hover {
+    background-color: #e0ad00; /* Button background color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Header styles */
+/* (Header styles as mentioned in the previous example) */
+
+/* About us section styles */
+.about-us {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.about-us h2 {
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.about-content {
+    text-align: left;
+    line-height: 1.6;
+}
+
+/* Additional styles can be added for specific formatting and design */
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Header styles */
+/* (Header styles as mentioned in the previous example) */
+
+/* Testimonials section styles */
+.testimonials {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.testimonials h2 {
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.testimonial-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.testimonial-card {
+    flex: 1 1 300px;
+    background-color: #333; /* Testimonial card background color */
+    padding: 20px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.testimonial-text p {
+    font-style: italic;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+.customer-details {
+    display: flex;
+    align-items: center;
+}
+
+.customer-details img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.customer-details h4 {
+    font-size: 1.2em;
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Header styles */
+/* (Header styles as mentioned in the previous example) */
+
+/* Newsletter signup section styles */
+.newsletter-signup {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.newsletter-signup h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.newsletter-signup p {
+    font-size: 1.1em;
+    margin-bottom: 30px;
+}
+
+.signup-form input[type="email"] {
+    padding: 10px;
+    width: 250px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.signup-form button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffd700; /* Button background color */
+    color: #1f1f1f; /* Button text color */
+    transition: background-color 0.3s;
+}
+
+.signup-form button:hover {
+    background-color: #e0ad00; /* Button background color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Header styles */
+/* (Header styles as mentioned in the previous example) */
+
+/* Contact information section styles */
+.contact-info {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.contact-info h2 {
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.contact-details p {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.social-icon {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px;
+    text-decoration: none;
+    background-color: #333; /* Social icon background color */
+    color: #fff; /* Social icon text color */
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.social-icon:hover {
+    background-color: #555; /* Social icon background color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Header styles */
+/* (Header styles as mentioned in the previous examples) */
+
+/* Footer section styles */
+.dark-footer {
+    background-color: #121212; /* Dark footer background color */
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-links ul {
+    list-style: none;
+}
+
+.footer-links ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.footer-links ul li a {
+    text-decoration: none;
+    color: #fff; /* Footer link color */
+}
+
+.footer-links ul li a:hover {
+    color: #ffd700; /* Footer link color on hover */
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-icon {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px;
+    text-decoration: none;
+    background-color: #333; /* Social icon background color */
+    color: #fff; /* Social icon text color */
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.social-icon:hover {
+    background-color: #555; /* Social icon background color on hover */
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background color */
+    color: #fff; /* Text color */
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Header styles */
+/* (Header styles as mentioned in the previous examples) */
+
+/* Footer styles */
+/* (Footer styles as mentioned in the previous examples) */
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffd700; /* Heading text color */
+}
+
+p {
+    line-height: 1.6;
+}
+
+/* Buttons */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #ffd700; /* Button background color */
+    color: #1f1f1f; /* Button text color */
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #e0ad00; /* Button background color on hover */
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Links */
+a {
+    color: #ffd700; /* Link color */
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #e0ad00; /* Link color on hover */
+}
+
+/* Backgrounds */
+.section-background {
+    background-color: #333; /* Section background color */
+    padding: 50px 0;
+    text-align: center;
+}
+
+/* Additional styles can be added for specific elements and components */
